@@ -9,5 +9,6 @@ using std :: endl;
 
 int main()
 {
-cout << "\t\t****First project****\n\n"
+  cout << "\t\t****First project****\n\n" << endl;
+  return 0;
 }
